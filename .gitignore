@@ -6,6 +6,10 @@ auto-archive*
 
 # Mac/OSX
 .DS_Store
+bin
+include
+lib
+
 
 __pycache__/
 *.py[cod]
